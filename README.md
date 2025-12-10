@@ -23,5 +23,8 @@ Objective
 To enable data-driven decision-making for inventory management, marketing strategy, and resource allocation through clear, actionable insights.
 
 screenshots / demo
-show what the dashboard look like.
-Example - 
+show what the dashboard look like- [Alt text](https://github.com/Nishantt98/Super-Sales-Dashboard/blob/main/dashboard_screenshot.png)
+                                    [Alt text](https://github.com/Nishantt98/Super-Sales-Dashboard/blob/main/dashboard_screenshot2.png)
+Example - ![Dashboard Preview](https://github.com/Nishantt98/Super-Sales-Dashboard/blob/main/dashboard_screenshot.png)
+Example - ![Dashboard Preview](https://github.com/Nishantt98/Super-Sales-Dashboard/blob/main/dashboard_screenshot2.png)
+
